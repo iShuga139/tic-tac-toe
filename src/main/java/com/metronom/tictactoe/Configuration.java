@@ -14,7 +14,7 @@ public class Configuration {
 	/**
 	 * Load the configuration from a file
 	 * 
-	 * @param absolutePathFile
+	 * @param fileName
 	 */
 	public Configuration(String fileName) {
 		try {
