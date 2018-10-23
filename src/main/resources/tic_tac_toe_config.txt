@@ -1,0 +1,4 @@
+playfieldSize=5
+symbolPlayerOne=A
+symbolPlayerTwo=B
+symbolPlayerThree=C
