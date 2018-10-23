@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.metronom</groupId>
 	<artifactId>tictactoe</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>Tic-Tac-Toe</name>
 	<description>TIC TAC TOE V2</description>
 	<dependencies>
